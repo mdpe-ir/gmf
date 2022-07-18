@@ -1,4 +1,4 @@
-module github.com/mdpe-ir/gmf
+module github.com/mdpe-ir/gmfv2
 
 go 1.18
 
